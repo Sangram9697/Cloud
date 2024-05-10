@@ -21,7 +21,8 @@ click on localhost:3000
 *********************************************************************************************************************************
 https://drive.google.com/drive/u/0/folders/1me_nJJh0fvdDOXX3ew2jzGQpoP7f_iFt
 **********************************************************************************************************************************
-
+https://cloud.google.com/sdk/docs/install 
+*******************************************************************************************
 1. Install Google App Engine. Create hello world app and other simple web applications using python/java. 
 2. Use GAE launcher to launch the web applications. 
 3. Simulate a cloud scenario using CloudSim and run a scheduling algorithm that is not present in 
